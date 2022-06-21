@@ -157,6 +157,9 @@ namespace HelloWorld
             Console.WriteLine("Gender is: " + gender);
             Console.ReadLine();
 
+            int x4 = 100 + 50;
+            Console.WriteLine(x4);
+            Console.ReadLine();
 
         }
 
